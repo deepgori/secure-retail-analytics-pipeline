@@ -1,0 +1,3 @@
+astronomer-cosmos[dbt-bigquery]
+protobuf
+astro-run-dag==0.2.7

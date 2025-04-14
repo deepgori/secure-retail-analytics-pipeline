@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: retail
+    database: airflow-project-455515
+
+    tables:
+    - name: raw_invoices
+    - name: country
