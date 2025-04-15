@@ -62,7 +62,6 @@ text
 
 3. **Start the environment**
 astro dev start
-text
 
 4. **Publish sample events**
 - Use the provided Python script in `scripts/publish_events.py` to send test data to Pub/Sub.
