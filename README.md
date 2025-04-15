@@ -50,29 +50,6 @@ This repository demonstrates a real-time analytics pipeline for retail data, orc
 
 ---
 
-## Quickstart
-
-1. **Clone the repo**
-git clone https://github.com/your-username/retail-stream-analytics.git
-cd retail-stream-analytics
-text
-
-2. **Configure GCP credentials**
-- Place your `service_account.json` in `include/gcp/`.
-
-3. **Start the environment**
-astro dev start
-
-4. **Publish sample events**
-- Use the provided Python script in `scripts/publish_events.py` to send test data to Pub/Sub.
-
-5. **Run Airflow DAGs**
-- Trigger the `streaming_ingest` and `batch_transform` DAGs from the Airflow UI.
-
-6. **View dashboards**
-- Access Metabase at [http://localhost:3000](http://localhost:3000).
-
----
 
 ## Credits
 
