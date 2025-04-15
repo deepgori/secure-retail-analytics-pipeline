@@ -74,22 +74,8 @@ astro dev start
 
 ---
 
-## Security Notice
-
-> **Always use the latest Metabase image.**  
-> The screenshot below (from Docker Desktop) shows critical vulnerabilities in older Metabase images.  
-> ![Docker Desktop Vulnerabilities](https://pplx-res.cloudinary.com/image/upload/v1744664988/user_uploads/GBGTvVNqgSlNdWY/image.jpg)
-
----
-
 ## Credits
 
-Inspired by [azizbohra17/Airflow-End-to-End-Pipeline](https://github.com/azizbohra17/Airflow-End-to-End-Pipeline) and [chayansraj/Data-Pipeline-with-dbt-using-Airflow-on-GCP](https://github.com/chayansraj/Data-Pipeline-with-dbt-using-Airflow-on-GCP), with a focus on streaming data and real-time analytics.
-
----
-
-## License
-
-MIT
+This project has been developed with the help of the Youtube Video (Data Engineer Project: An end-to-end Airflow data pipeline with BigQuery, dbt Soda, and more!) by Marc Lamberti, with a focus on streaming data and real-time analytics.
 
 ---
