@@ -27,7 +27,7 @@ This repository demonstrates a real-time analytics pipeline for retail data, orc
 
 ## Architecture
 
-![Architecture Diagram](313504181-321a5329-edc2-4715-b8d9-77e03a70341e.png) 
+![Architecture Diagram](Architecture_Diagram.png) 
 
 ---
 
